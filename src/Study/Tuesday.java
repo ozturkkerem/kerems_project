@@ -1,11 +1,7 @@
 package Study;
 
-public class Monday {
+public class Tuesday {
     public static void main(String[] args) {
-
-
-
-
-
+        System.out.println("Right now");
     }
 }
